@@ -19,8 +19,7 @@ o  The library has been modularized into several components
    (hipparchus-core, hipparchus-clustering, hipparchus-fft, hipparchus-fitting,
    hipparchus-geometry, hipparchus-ode, hipparchus-optim, hipparchus-samples, hipparchus-stat).
    All other components depend on hipparchus-core and hipparchus-clustering depends on hipparchus-stat.
-o  EmpiricalDistribution and MultivariateNormalExpectationMaximization have been moved from
-   The exceptions hierarchy has been simplified and many exception classes have been eliminated.
+o  The exceptions hierarchy has been simplified and many exception classes have been eliminated.
 o  The neuralnet and genetics packages from Apache Commons Math have been removed.
 o  Hipparchus includes a migration module and an associated script
    to help switching from Apache Commons Math to Hipparchus.

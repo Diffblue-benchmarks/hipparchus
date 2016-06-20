@@ -30,7 +30,7 @@ keyID=0xCC6CB50E6A59DD12
 notes=false
 
 # Set to true to drop -SNAPSHOT from versions in poms
-kill_snap=false
+kill_snap=true
 
 # Drop -SNAPSHOT from version. Set kill_snap=true to execute this
 # on a newly created release branch.
